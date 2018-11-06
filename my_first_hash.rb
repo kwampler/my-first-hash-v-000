@@ -4,6 +4,7 @@ def my_hash
     "age" => "34"
   }
 end
+end
 
 
 def shipping_manifest
